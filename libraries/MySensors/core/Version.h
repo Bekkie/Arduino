@@ -6,6 +6,10 @@
 #ifndef Version_h
 #define Version_h
 
+<<<<<<< HEAD:libraries/MySensors/core/Version.h
 #define LIBRARY_VERSION "1.6.0-beta"
+=======
+#define LIBRARY_VERSION "1.5.1"
+>>>>>>> refs/remotes/origin/master:libraries/MySensors/Version.h
 
 #endif
